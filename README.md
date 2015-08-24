@@ -5,4 +5,4 @@ The origin source code is writed by JakeWharton, https://gist.github.com/JakeWha
 Only support ImageViews for now.
 
 You can use it by JitPack.
-https://jitpack.io/#fanxu123/ForegroundViews/206744b430
+https://jitpack.io/#fanxu123/ForegroundViews/0ab6d65425
