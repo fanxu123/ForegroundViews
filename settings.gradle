@@ -1,0 +1,12 @@
+//List all projects here 
+String[] projects = [
+        "library",
+        "sample"
+];
+
+//include and config projects
+for (String p : projects) {
+//	println "--"  + p
+    include p;
+    project(":" + p).projectDir = new File(p)
+}
