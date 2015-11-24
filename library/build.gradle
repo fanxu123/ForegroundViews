@@ -1,8 +1,5 @@
 apply plugin: 'com.android.library'
-
-apply plugin: 'com.github.dcendents.android-maven'
-
-group = 'com.github.fanxu123'
+apply from: 'gradle-mvn-push.gradle'
 
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
